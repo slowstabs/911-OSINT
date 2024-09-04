@@ -50,6 +50,24 @@ In the image we see a key being equal pizza. We can find a tool online that conv
 ---
 
 
+### UGH THESE KIDS!
+
+> Christy told us about a blunder that was noticed a few years after Bin Laden was killed when one Agent Hopper's teenage son Viki got access to some confidential info and made it public for fun.
+
+> More about his son; he was a fan of DanTDM, a popular minecraft youtuber called Dan from back in the day. His birthday was on 21st July.
+
+> His youtube channel name was inspired by the same youtuber and his birthday. Start by finding his Viki's YouTube channel.
+
+This challenge is fairly simple after getting the first part, which is the name of Viki's channel. Using the info in the question you can see that the guy Viki followed was called DanTDM and Dan was the name of the youtuber. So if a guy is named Viki then his channel name would be? Yup VikiTDM. But that's not it we also got told that its consists of the birthday as well. So 21st July translates to 21/7 but you can't have symbols in youtube usernames so its just 217.
+
+Note: Of course there could be multiple other combinations, but finding this was the challenge. It's not worth 150 points for nothing.
+
+The final username comes to be vikitdm217.
+
+On finding this channel on youtube we see that the channel
+
+
+
 
 
 
