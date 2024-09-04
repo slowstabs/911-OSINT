@@ -22,14 +22,14 @@ On the first one we're given a post with some random symbols on it and on the ri
 
 It hints towards American Standard Code for Information Interchange aka ASCII. But we still don't know what the symbols in the image are so we do a reverse image search through google lens and find out that the symbols are arabic numbers.
 
-We could sit and decode it but for this I'll use chatgpt, and get the 5 numbers. The caption was hinting towards ascii and the numbers found also seem to come under the ascii aplhabets range so on running a decimal to ascii conversion, we get our first part - `ayman`
+We could sit and decode it but for this I'll use chatgpt, and get the 5 numbers. The caption was hinting towards ascii and the numbers found also seem to come under the ascii aplhabets range so on running a decimal to ascii conversion, we get our first part - **`ayman`**
 
 ![image](https://github.com/user-attachments/assets/33cf964d-be30-4add-a219-4e839c8fc5ca)
 
 
 The second one is pretty simple. It has the numbers `1 12` on the image and also a caption saying `Christy = 3 8 18 9 19 20 25`. Each of the letters are corresponding to the position in the alphabet (ie: a=1, b=2 and so on)
 
-So `1 12` would be `al`
+**So `1 12` would be `al`**
 
 
 
