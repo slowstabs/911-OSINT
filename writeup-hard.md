@@ -14,20 +14,16 @@ The challenge text doesn't really give us a lot of info on how to solve it so we
 
 ![image](https://github.com/user-attachments/assets/3212827e-ed5f-4247-b456-55b584205d3e)
 
-
-On going to that instagram profile we're greeted with 3 posts.
-
-![image](https://github.com/user-attachments/assets/fa4ec23e-cc42-40ff-be09-5b9787c62997)
-
-Each post has some text and a caption, lets go through them one by one.
+On going to that instagram profile we're greeted with 3 posts. Each post has some text and a caption, lets go through them one by one.
 
 ![image](https://github.com/user-attachments/assets/87847283-2234-4f5c-ba84-ea9e737bbcd2)
 
-On the first one we're given a post with some random symbols on it and on the right we are given what seems to a paragraph in arabic. So quickly run a Arabic to English translate and we find this
-
-![image](https://github.com/user-attachments/assets/0d6705b0-9a98-4279-bd49-f2ef9d377e4e)
+On the first one we're given a post with some random symbols on it and on the right we are given what seems to a paragraph in arabic. So quickly run a Arabic to English translate and we find the translated paragraph to be `The American Standard Code for Information Interchange is a character encoding standard for electronic communications. American Standard Code for Information Interchange symbols represent the text found in computers, communications equipment, and other devices.`
 
 It hints towards American Standard Code for Information Interchange aka ASCII. But we still don't know what the symbols in the image are so we do a reverse image search through google lens and find out that the symbols are arabic numbers.
+
+We could sit and decode it but for this I'll use chatgpt
+
 
 
 
