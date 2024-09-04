@@ -32,5 +32,20 @@ Flag: `ZAWAHIRI-HAS-FLED-DENMARK`
 
 ---
 
+### Meta Daa-ta or Day-ta
+
+> Christy told us about one image that he was supposed to get. What he had to recieve was not the image in itself but rather something in its metadata. The image was one that wasn't very uncommon but what was needed to him was the Universal Unique Identity of the image. The image is given below.
+> He doesn't really need it anymore but you require points so help yourself :)
+
+![image.jpg](https://github.com/user-attachments/assets/f1df2d5f-df11-46b3-9473-b1faf03f9cbc)
+
+
+From the name of the challenge and the info given, its pretty clear that the solution deals with something realted to the metadata and Universal Unique Identity which if you search is the full form of UUID. If you have linux, you can run `exiftool` and get the metadata or if you're on Windows or something else, find an online tool for it. We find the UUID in the metadata which is what we require.
+
+![image](https://github.com/user-attachments/assets/a3015b78-0409-49db-a66d-0b8a49c5df79)
+
+Flag: `faf5bdd5-ba3d-11da-ad31-d33d75182f1b`
+
+---
 
 
