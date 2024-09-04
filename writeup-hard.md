@@ -41,11 +41,11 @@ In the caption it talks about Vigenere Cipher and how there's a key to cipher th
 
 In the image we see a key being equal pizza. We can find a tool online that converts vigenere cipher into normal text using a key. Since we have the text required with the key we can input the values and get the decoded message using an online tool like dcode.fr .
 
-**The decoded message becomes zawahiri**
+**The decoded message becomes `zawahiri`**
 
 ![image](https://github.com/user-attachments/assets/90fbb94a-3f6f-4027-bddd-645a0f722caf)
 
-So the total flag becomes **ayman-al-zawahiri**
+So the total flag becomes **`ayman-al-zawahiri`**
 
 ---
 
