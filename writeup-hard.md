@@ -45,7 +45,7 @@ In the image we see a key being equal pizza. We can find a tool online that conv
 
 ![image](https://github.com/user-attachments/assets/90fbb94a-3f6f-4027-bddd-645a0f722caf)
 
-So the total flag becomes **`ayman-al-zawahiri`**
+### So the total flag becomes **`ayman-al-zawahiri`**
 
 ---
 
