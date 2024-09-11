@@ -80,6 +80,47 @@ So on inputting the coordinates into what3words, we get our flag :D
 
 #### Flag: bleaching.twins.drooling
 
+---
+
+### Audio Spectrum
+
+> Christy was a very keen learner and took interest in the creative ways Al-Qaeda sent secret messages. One such way was through spectrograms. Analysing them in a music software would show texts using waveforms.
+> Here's one that Christy came across a while back, he asked me to try it myself but I'm a busy man so its on you!
+
+We are given two files in the challenge, one is an audio and other is an archive file. The archive file seems to have a password so its ofc, we need to find that. In the questions spectrograms are mentioned so obviously, we observe the audio's spectrogram.
+
+(I've used sonic visualiser, many of you guys used an online tool and it worked fine)
+
+![image](https://github.com/user-attachments/assets/8f0f1ef8-7c08-4790-81a0-7d84cc75f71c)
+
+It shows a pastebin link - pastebin.com/Umwrzvur. When we go here, we're greeted by a wall of text showing what seems to be an intercept of someone's call in urdu. So on translation we get : 
+
+![image](https://github.com/user-attachments/assets/1118dd1c-e424-4d4e-b09b-e88d3b288096)
+
+We see info about an AJ Traders in Lahore dealing with bathroom fittings, and tells us about a password which is a phone number of a shop with something related to "USA Tools" which wont show up on maps. We use google maps and find AJ traders.
+
+![image](https://github.com/user-attachments/assets/d647fffa-fb27-4515-8cc8-f2bcc1d26b64)
+
+So now we need to find USA tools which is not mentioned on maps, so we use street view to look around and find it.
+
+![image](https://github.com/user-attachments/assets/e185f93a-0554-4868-89af-f34cbf08f819)
+
+We see a phone number on a sign board of `Made in USA tools` being `0300 9456596`. We use this as the password for the archive we got in the beginning. The archive has an image and an instructions.txt. The image is a picture of a person and the instructions tell us that his full name without spaces is the flag. So we do a quick reverse image search and find the dude's wikipedia page, and voila we have the flag!
+
+![image](https://github.com/user-attachments/assets/c40a1b54-cb8f-48d7-94c4-96e2919cf144)
+
+Flag: SyedAminulHaque
+
+
+---
+
+
+
+
+
+
+
+
 
 
 
