@@ -22,6 +22,8 @@ Since in the twitter post, Cassie said `his name really FLAGS my nerves`, if pre
 
 ![image](https://github.com/user-attachments/assets/c5465c7c-b80f-4f32-a3d8-67b9398d6a2b)
 
+Tiny easter egg: The first letters of this challenge translate to CIA :)
+
 #### Flag: Muaath al-Turki
 
 ---
