@@ -28,4 +28,24 @@ Tiny easter egg: The first letters of this challenge translate to CIA :)
 
 ---
 
+### Simpsons Again!??
+
+> In his interviews Christy mentioned that he found it very suspicious that Simpsons subtly predicted the attack. The controversy got so bad that the episode was banned for a few weeks. Christy hated the fact that it was so well rated on IMDb and ended up disliking all rating websites as a whole.
+> 
+> It bamboozled Christy how a TV show could predict an event that occured around 4 years before the actual event. Help Christy remember the exact date of this airing.
+> 
+> Oh! Oh! Also, Christy believes in fandoms :)
+
+> Format: MM-DD-YYYY
+
+I was surprised how so many of you got this so easily since I made this to be pretty hard. Turns out its just a ChatGPT prompt away. Well nothing wrong in that, its not open source if I say you we're not allowed to use AI. 
+
+Anyways the way I thought you would take is search for the episode then go to the simpsons.fandom.com page and find the date but its ok, freebie I guess lol
+
+![image](https://github.com/user-attachments/assets/c111a537-d3e8-4d10-86f4-f1cbd8bc226c)
+
+#### Flag: 09-21-1997
+
+---
+
 
