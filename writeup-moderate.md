@@ -48,4 +48,26 @@ Anyways the way I thought you would take is search for the episode then go to th
 
 ---
 
+### Myth Busters
+
+> Christy's wife was one very curious one and searches about Christy's current and past works a lot.
+>
+> Christy had told his wife about one dude on reddit who explained how much preparation was put into the execution of Bin Laden.
+>
+> Christy remembers that it started from reading a post on why did the SEALS kill Osama Bin Laden on the spot on a sub reddit. And the guy he's refering to happened to be the top reply of the top post of all time in that subreddit.
+
+> Wish he remembered the dude's name tho man, shucks :(
+
+
+Since we have the path that Christy took to find the guy, we can follow his footsteps! Starting from the post with `why did the SEALS kill Osama Bin Laden on the spot`. You can find this post by searching that using google dorking or just mentioning reddit in the search query.
+
+![image](https://github.com/user-attachments/assets/cc5fbfb5-0825-46bb-aec4-0c208941180c)
+
+The post is in a subreddit called r/WarCollege. By just going to the main page of the subreddit, sorting it by Top of All Time, we get the top post. The flag is hinted to be the username of the person who had the top reply on that post. And that happpened to be `blackhorse15A`, there you have it!
+
+![image](https://github.com/user-attachments/assets/c8780ba5-a1f0-42ad-a782-f72e85fe9547)
+
+#### Flag: blackhorse15A
+
+---
 
