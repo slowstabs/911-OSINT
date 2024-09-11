@@ -18,4 +18,12 @@ On looking at her website link , it leads to the CIA website which contained all
 
 ![image](https://github.com/user-attachments/assets/4d004332-1eba-45c6-98a2-3dd0312e6a09)
 
+Since in the twitter post, Cassie said `his name really FLAGS my nerves`, if pretty obvious that the dude's name is the flag. Going through the PDF you'll find his name and there you have it.
+
+![image](https://github.com/user-attachments/assets/c5465c7c-b80f-4f32-a3d8-67b9398d6a2b)
+
+#### Flag: Muaath al-Turki
+
+---
+
 
