@@ -68,6 +68,20 @@ On finding this channel on youtube we see that it has a video which was funny lo
 
 ![image](https://github.com/user-attachments/assets/fcbfe63e-bba0-493b-82fe-2c4288916eed)
 
+We do as it says and after a few seconds you get a mail back with some information on it. 
+
+![image](https://github.com/user-attachments/assets/cada2a52-90fb-42ac-b9f9-3eb65ee4f001)
+
+In the image we see coordinates of some place and also a sentence hinting towards what3words (a website that names each pixel on the map with 3 random words)
+
+So on inputting the coordinates into what3words, we get our flag :D
+
+![image](https://github.com/user-attachments/assets/5debfb83-1ada-4e46-8bf6-23bb0b0f3135)
+
+#### Flag: bleaching.twins.drooling
+
+
+
 
 
 
