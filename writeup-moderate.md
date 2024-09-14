@@ -71,3 +71,27 @@ The post is in a subreddit called r/WarCollege. By just going to the main page o
 
 ---
 
+### FBI.jpg
+
+> In an interview after the tragedy, Christy from the Federal Bureau of Investigation mentioned putting out images regarding 9/11 onto the FBI vault on Sept 14th 2011, which confirmed debris from an American Airlines flight.
+>
+> One of the images happened to have a serial number in it, which Christy remembers seeing but doesn't remember, maybe you could help?
+
+> Hint: M_________ and they're all digits?? UGH I HATE THE DUDE WHO MADE THIS CHALLENGE
+
+This was one I saw a lot of you struggle with and I don't blame you, it was a little confusing.
+
+From the question we get that we need to find the images regarding 9/11 that were put into the FBI vault. On search we find out that the FBI vault is used as an archive to store old data. On a quick google dork search on the vault website we find a link which looks like something we need.
+
+![image](https://github.com/user-attachments/assets/1f9d1657-0efe-4ce9-95a2-55138bef79eb)
+
+Going through the images on that website, we find the image we are looking for with a serial number. The part you people struggled with was figuring out what the number was. I expected you guys to just try all the permutations and find the answer which some of you did do, so well done. 
+
+It's just typing what you can see. The hint told us that after the M its just digits and also a particular number of underscores denoting the amount of digits (nine)
+
+#### Flag: M005537944
+
+
+
+
+
