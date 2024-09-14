@@ -48,4 +48,27 @@ Flag: `faf5bdd5-ba3d-11da-ad31-d33d75182f1b`
 
 ---
 
+### Emergency
+
+> Christy told us that Flight 77 crashing into the Pentagon caused all air traffic in the United States to shut down as per the instructions of the FAA. He recalls watching that on the TV on what was supposed to be one fine morning as one very traumatic one.
+>
+> He told us that it happened around the time he usually leaves for work, he couldn't remember the exact time the plane crashed into the Pentagon. Maybe you could help?
+
+> Flag Format: hr:min:sec (In digits)
+
+Another one that I hate ChatGPT for since it gave away the answer, but yeah shows how the future is.
+
+The way I expected this to be solved was using a timeline which could be found on the britannica website
+
+![image](https://github.com/user-attachments/assets/f2b8943a-5de1-4f47-9d2d-25ea893eb83e)
+
+On searching for the keyword "Pentagon" we find what we're looking for.
+
+![image](https://github.com/user-attachments/assets/3c3268e5-c6f5-4983-94b2-576caa9874a1)
+
+#### Flag: 09:37:46
+
+---
+
+
 
