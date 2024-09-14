@@ -1,4 +1,4 @@
-# 9/11 OSINT
+![image](https://github.com/user-attachments/assets/5a3162e2-c796-48e6-be89-5db9304c9448)# 9/11 OSINT
 
 ## Moderate
 
@@ -113,6 +113,21 @@ Going through the document a little bit we find what we are looking for
 
 ---
 
+### Pakistani Journalist
 
+> Christy mentioned a pakistani journalist who interviewed Bin Laden in 1997. In the interview, Bin Laden mentioned his plans towards the United States, his ideas of Jihad and Al-Qaeda's mission.
+>
+> Christy said "There's a very historic image of Bin Laden with the interviewer with a rifle in the background on his wikipedia page". This gun was one that was retrieved from the Spetsnaz forces, after Mujahidin's victory over the Soviets. The gun's model was ____ ?
+
+Firstly, the number of underscores is put there to trick you because the obvious answer I expected you guys to give was AK47 and it was very much the case.
+
+How you solve this is using the info in "There's a very historic image of Bin Laden with the interviewer with a rifle in the background on his wikipedia page". So we need to go to Osama's wikipedia page. On a slueth of his page, we can find exactly what we're looking for in a picture where Pakistani journalist Hamid Mir is interviewing Bin Laden with a gun in the back and the model of the gun is also mentioned.
+
+![image](https://github.com/user-attachments/assets/4d4834f1-c15e-402a-b54d-6aeee1d4a0d1)
+
+
+#### Flag: AKS-74U
+
+---
 
 
