@@ -91,6 +91,27 @@ It's just typing what you can see. The hint told us that after the M its just di
 
 #### Flag: M005537944
 
+---
+
+### 1998
+
+> Christy mentioned in his interviews that the FBI had performed investigations on Osama or rather Usama as he was called then, much before the event of 2001.
+>
+> In the first out of a three part record consisted of the FBI in early 1998 investigating the actions of Bin Laden along with his biodata, spottings and also his then assumed accomplices which were put into the FBI Vault.
+>
+> Christy also mentioned that the Control No. of the case was considered very confidential, but in 2024 its not. And you happen to be pretty curious right?
+
+Even this one requires us to search the FBI Vault so another quick google dorking seach using the info we have like "first out of a three part document"
+
+![image](https://github.com/user-attachments/assets/096db60a-98bb-4fd5-a686-47ca82cef369)
+
+Going through the document a little bit we find what we are looking for
+
+![image](https://github.com/user-attachments/assets/136a6498-fe8d-4772-9ebc-e0db6b9b751a)
+
+#### Flag: A-268/5-1998
+
+---
 
 
 
