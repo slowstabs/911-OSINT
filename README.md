@@ -6,6 +6,5 @@ I've provided the writeups for all the challenges made by me in this repository 
 
 Thank you so much for attending!! 💐
 
-![IMG_7985](https://github.com/user-attachments/assets/315d2e44-8e84-44e8-9543-573e01b0e834) 
+![image](https://github.com/user-attachments/assets/a859c009-2217-4582-8839-c5b459e154b2)
 
-!
