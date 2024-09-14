@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5a3162e2-c796-48e6-be89-5db9304c9448)# 9/11 OSINT
+# 9/11 OSINT
 
 ## Moderate
 
