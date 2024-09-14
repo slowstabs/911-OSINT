@@ -47,3 +47,7 @@
 | 25    | vist                          | 40    |
 
 
+**7. Top 10 Teams Score Timeline**
+
+![Top 10 Teams](https://github.com/user-attachments/assets/bb4efd66-da13-45eb-a5f2-2ee35e7202eb)
+
