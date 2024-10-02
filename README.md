@@ -4,6 +4,8 @@
 
 I've provided the writeups for all the challenges made by me in this repository and also some statistics regarding the event. Can't wait to make the next one and I hope you guys especially show up!
 
+If you need any help, feel free to contact me on discord, ID: slowstabs
+
 Thank you so much for attending!! 💐
 
 ![image](https://github.com/user-attachments/assets/a859c009-2217-4582-8839-c5b459e154b2)
